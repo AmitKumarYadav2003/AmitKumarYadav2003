@@ -1,16 +1,36 @@
-## Hi there 👋
+---
 
-<!--
-**AmitKumarYadav2003/AmitKumarYadav2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+* 🎓 Final Year BTech CSE Student
+* 💻 Passionate about Web Development
+* 🚀 Built projects using **React, Node.js, and modern web technologies**
+* 🛠️ Experienced in developing full-stack applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* 💻 **Languages:** HTML, CSS, JavaScript
+* ⚙️ **Frameworks & Libraries:** MERN Stack (MongoDB, Express.js, React, Node.js)
+* 🤖 **AI Integration:** OpenAI / Image Generation APIs
+* 🗄️ **Databases:** MongoDB, SQL
+* 🛠️ **Tools & IDE:** VS Code, Git, GitHub
+
+---
+
+## 🚀 Projects
+
+* 🎨 **AI Thumbnail Generator (MERN)** – A web application that generates high-quality thumbnails using AI based on user prompts
+* 🏨 **Hotel Booking Website** – A full-stack web application for booking hotels with user authentication and booking management
+* 🍔 **Food Delivery Web App** – An online platform for ordering food with cart, checkout, and order tracking features
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🌐 Connect with me
+
+---
