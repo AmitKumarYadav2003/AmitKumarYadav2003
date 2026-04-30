@@ -1,5 +1,3 @@
----
-
 ## 🧑‍💻 About Me
 
 * 🎓 Final Year BTech CSE Student
@@ -21,16 +19,24 @@
 
 ## 🚀 Projects
 
-* 🎨 **AI Thumbnail Generator (MERN)** – A web application that generates high-quality thumbnails using AI based on user prompts
-* 🏨 **Hotel Booking Website** – A full-stack web application for booking hotels with user authentication and booking management
-* 🍔 **Food Delivery Web App** – An online platform for ordering food with cart, checkout, and order tracking features
+* 🎨 **AI Thumbnail Generator (MERN)**
+  A web application that generates high-quality thumbnails using AI
+
+* 🏨 **Hotel Booking Website**
+  Full-stack booking system with authentication
+
+* 🍔 **Food Delivery Web App**
+  Online platform with cart, checkout, and order tracking
 
 ---
 
 ## 📊 GitHub Stats
 
+(Add in next step)
+
 ---
 
 ## 🌐 Connect with me
 
----
+* Email: your-email
+* LinkedIn: your-link
