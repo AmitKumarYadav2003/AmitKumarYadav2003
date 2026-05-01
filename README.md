@@ -1,9 +1,24 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Open+to+Opportunities" />
-</h2>
+<h1 align="center">
+  <span style="color:#58A6FF;">Amit Kumar Yadav</span>
+</h1>
+
+<h3 align="center">
+  Full Stack Developer | MERN Stack | Building Real World Projects
+</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/your-id">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 ## 🧑‍💻 About Me
 
 * 🎓 Final Year BTech CSE Student
