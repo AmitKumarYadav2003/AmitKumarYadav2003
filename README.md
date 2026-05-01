@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner.png" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Open+to+Opportunities" />
+</h2>
 ## 🧑‍💻 About Me
 
 * 🎓 Final Year BTech CSE Student
