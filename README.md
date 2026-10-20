@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30,34&height=300&section=header&text=Amit%20Kumar%20Yadav&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20Innovator&descAlignY=65&descColor=ffffff&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30,34&height=300&section=header&text=Amit%20Kumar%20Yadav&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Application%20Developer&descAlignY=65&descColor=ffffff&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmitKumarYadav03/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://amityadav2003.github.io)
 
-<img src="https://count.getloli.com/@AmitKumarYadav2003?name=AmitKumarYadav2003&theme=gelbooru" alt="Profile Views"/>
+<img src="https://count.getloli.com/@AmitKumarYadav2003?name=AmitKumarYadav2003&theme=gelbooru&v=2" alt="Profile Views"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ```javascript
 const amit = {
-  location: "Phagwara, Punjab 🇮🇳",
+  location: "Vadodara, Gujarat 🇮🇳",
   education: "B.Tech CSE - Lovely Professional University (2022-2026)",
   
   professional: {
@@ -42,12 +42,12 @@ const amit = {
     frontend: ["React.js", "Flutter", "Tailwind CSS", "Context API"],
     backend: ["Node.js", "Express.js", "Laravel", "REST APIs", "JWT Auth", "Laravel Sanctum"],
     database: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "Linux"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"],
   },
   
   passion: "Building scalable, production-ready applications",
   dsa_commitment: "135+ LeetCode problems solved",
-  learning: ["System Design", "Advanced Algorithms"],
+  learning: ["System Design", "Advanced Algorithms"]
   fun_fact: "I debug with console.log and I'm absolutely proud of it! 🐛"
 };
 ```
