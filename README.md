@@ -1,11 +1,11 @@
 # 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30,34&height=300&section=header&text=Amit%20Kumar%20Yadav&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20AI%20Innovator&descAlignY=65&descColor=ffffff&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30,34&height=300&section=header&text=Amit%20Kumar%20Yadav&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20Innovator&descAlignY=65&descColor=ffffff&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications+%F0%9F%9A%80;Solving+complex+problems+with+elegant+code+%F0%9F%A7%A0;Open+to+full-time+%26+internship+opportunities+%F0%9F%8E%AF" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications+%F0%9F%9A%80;Solving+complex+problems+with+elegant+code+%F0%9F%A7%A0;Open+to+full-time+opportunities+%F0%9F%8E%AF" alt="Typing SVG"/>
 
 <br><br>
 
@@ -15,7 +15,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmitKumarYadav03/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://amityadav2003.github.io)
 
-<img src="https://komarev.com/ghpvc/?username=AmitKumarYadav2003&label=👁️+Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://count.getloli.com/@AmitKumarYadav2003?name=AmitKumarYadav2003&theme=gelbooru" alt="Profile Views"/>
 
 </div>
 
@@ -28,22 +28,21 @@
 ```javascript
 const amit = {
   location: "Phagwara, Punjab 🇮🇳",
-  education: "B.Tech CSE (Final Year) - Lovely Professional University",
+  education: "B.Tech CSE - Lovely Professional University (2022-2026)",
   
   professional: {
     title: "Full Stack Developer",
     specialization: "MERN Stack | AI Integrations",
-    status: "Actively seeking opportunities",
+    status: "Open to full-time opportunities",
     experience: "3+ years of coding"
   },
   
   expertise: {
-    languages: ["JavaScript (ES6+)", "C++", "HTML5", "CSS3"],
-    frontend: ["React.js", "Tailwind CSS", "Context API"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Auth"],
+    languages: ["JavaScript (ES6+)", "C++", "Dart", "SQL", "HTML5", "CSS3"],
+    frontend: ["React.js", "Flutter", "Tailwind CSS", "Context API"],
+    backend: ["Node.js", "Express.js", "Laravel", "REST APIs", "JWT Auth", "Laravel Sanctum"],
     database: ["MongoDB", "MySQL"],
     tools: ["Git", "GitHub", "VS Code", "Postman", "Linux"],
-    apis: ["Stripe", "Google Gemini", "ImageKit"]
   },
   
   passion: "Building scalable, production-ready applications",
@@ -63,8 +62,9 @@ const amit = {
 |:---:|:---:|:---:|:---:|:---:|
 | React.js | Node.js | MongoDB | Git & GitHub | Stripe API |
 | JavaScript | Express.js | MySQL | VS Code | Gemini AI |
-| Tailwind CSS | REST APIs | | Postman | JWT Auth |
-| Context API | Authentication | | Linux | Payment Integration |
+| Flutter | Laravel | | Postman | JWT Auth |
+| Tailwind CSS | REST APIs | | Linux | Payment Integration |
+| Context API | Authentication | | | |
 
 </div>
 
@@ -79,6 +79,7 @@ const amit = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </div>
 
@@ -86,6 +87,7 @@ const amit = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -97,6 +99,7 @@ const amit = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
@@ -150,7 +153,7 @@ const amit = {
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitKumarYadav2003&bg_color=0d1117&color=58a6ff&line=30363d&point=79c0ff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph)](https://github.com/AmitKumarYadav2003)
+[![Contribution Graph](https://ghchart.rshah.org/58a6ff/AmitKumarYadav2003)](https://github.com/AmitKumarYadav2003)
 
 </div>
 
@@ -167,11 +170,20 @@ const amit = {
 | 🏆 **PRMO Qualified** | Pre-Regional Mathematical Olympiad |
 | ⭐ **NTSE Cleared** | National Talent Search Examination |
 | 🥇 **Gold Medalist** | 46th K.V.S. Sports Meet (Regional Level) |
+| 🏊 **SPG Swimming** | 2nd & 3rd positions, S.P.G. competition |
 | 💻 **135+ DSA Problems** | LeetCode Competitive Programmer |
 | 📜 **4 Certifications** | Project Management, Cloud Computing, Frontend Dev, Generative AI |
 | 🚀 **8+ Projects** | Full Stack Applications Built |
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+- **Full Stack AI ChatBot (ChatGPT Clone)**: MERN stack, Google Gemini, ImageKit aur Stripe. Credit-based monetization with webhook verification, JWT-protected routes, live on Vercel.
+- **HRMS (Human Resource Management System)**: Flutter + Laravel + MySQL + Sanctum. 9+ screen mobile app, custom drag-to-punch attendance widget, attendance APIs real device par tested.
+- **Hotel Booking Platform**: React + Tailwind CSS. Multi-step booking flow with custom date pickers, Context API se state centralized.
 
 ---
 
@@ -188,7 +200,7 @@ const amit = {
 │  🗄️  Database Design    █████████░  88%                  │
 │  🔌 API Development    █████████░  90%                  │
 │  📚 DSA & Algorithms   █████████░  91%                  │
-│  🚀 Problem Solving    █████████░  93%                  │
+│  📱 Mobile (Flutter)   ████████░░  85%                  │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -241,7 +253,7 @@ const amit = {
 
 ### 🤝 **Current Status**
 
-🔴 **ACTIVELY SEEKING**: Full-time & Internship opportunities  
+🔴 **ACTIVELY SEEKING**: Full-time opportunities  
 💡 **OPEN TO**: Exciting projects, collaborations & growth opportunities  
 ⚡ **RESPONSE TIME**: Usually within 24 hours
 
@@ -255,7 +267,7 @@ const amit = {
 
 ### 🎨 *"First, solve the problem. Then, write the code."* 💡
 
-**Built with passion • Powered by ☕ coffee • Always learning & growing**
+**Built with passion • Always learning & growing**
 
 <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Amit%20Kumar%20Yadav-FF1744?style=flat-square" alt="Made with love"/>
 
