@@ -249,7 +249,7 @@ const amit = {
 
 📧 **Email:** amityadav14012003@gmail.com  
 📱 **Phone:** +91 7380777550  
-🏠 **Location:** Phagwara, Punjab, India
+🏠 **Location:** Vadodara, Gujarat, India
 
 ### 🤝 **Current Status**
 
